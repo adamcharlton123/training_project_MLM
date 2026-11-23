@@ -1,0 +1,11 @@
+LINEAR REGRESSION (full one-hot sequence)
+Test RNAs: 5,000
+R²:  1.00000000
+MAE: 0.00000021
+Top 5 base changes relative to the most common base:
+  Position 164: G->C  +0.09649
+  Position 733: T->C  +0.09612
+  Position 204: C->G  -0.09599
+  Position 718: T->G  +0.09385
+  Position 352: T->G  -0.09321
+

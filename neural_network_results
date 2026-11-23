@@ -1,0 +1,4 @@
+NEURAL NETWORK (full one-hot sequence; 16 hidden neurons)
+Test RNAs: 5,000
+R²:  -0.00027287
+MAE: 0.02180510
